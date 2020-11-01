@@ -1,4 +1,4 @@
-package com.github.kerner1000;
+package com.github.kerner1000.http.server;
 
 import com.github.kerner1000.http.server.SimpleHTTPHandler;
 import com.github.kerner1000.http.server.SimpleHTTPServer;
