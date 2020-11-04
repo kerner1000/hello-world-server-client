@@ -1,6 +1,6 @@
 # Hello World: Server-Client Communication
 
-Examples for Java Server-Client communication.
+Examples for Java Server-Client communication build with Maven.
 
 This project contains the following examples:
 
