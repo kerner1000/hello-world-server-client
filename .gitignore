@@ -23,5 +23,13 @@
 hs_err_pid*
 
 # IntelliJ
-.idea
-*.iml
+**/.idea/
+**.iml
+
+# Eclipse
+**.classpath
+**.project
+
+# Maven
+**/target/
+**/*.xml.releaseBackup
